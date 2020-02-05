@@ -24,6 +24,7 @@ Let's begin by adding events to your calendar. To do this, you will want to doub
 When the Untitled-Event screen is open, you'll want to give the event a title and possibly type in specific details into the big open space. 
 
 Next, you will want to adjust the start time and end time to reflect whent the event will begin and how long it will be. You can also adjust the start date and end date if the event is longer than a day. To do this, click on the little arrow next to what you would like to alter. This will bring up a drop down box full of options to choose from.
+
 _*Note:* you cannot change the time if the All Day box is checked._
 
 If it is helpful, you can enter the location that the event will take place. You can enter a specific address like '9401 Farwest Dr SW, Lakewood, WA 98498' or type in a more general location such as 'Puyallup campus' or 'Mom's house'.
