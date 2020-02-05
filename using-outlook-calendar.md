@@ -2,7 +2,8 @@
 
 ### As a student, your schedule can get pretty hectic. Keeping track of classes, appointments, due dates, and personal obligations can be challenging. This tutorials will show you how to how to effectively schedule standalone and recurring events in Microsoft Outlook. It will also include ideas on how to use the calendar feature to collaborate with peers and teachers. 
 
-### Learning Outcomes: After viewing this tutorial, students should be able to:
+### Learning Outcomes
+After viewing this tutorial, students should be able to:
 * Schedule recurring events on their calendar
 *	Invite peers to meetings or events
 *	Set up reminder notifications for scheduled events (due dates, etc.)
@@ -10,6 +11,9 @@
 
 
 
+
+
+## Getting Started
 
 You have several options on how much of your calendar you can view at one time. You can choose to view your schedule one day at a time, the work week (Monday-Friday), the full week (Sunday-Saturday), the entire month, or schedule view (which is one day, organized hourly, but with a different setup than the day option). You can decide which layout makes the most sense to you. For me, viewing the entire month often makes the most sense to me, so we will start there.
 
@@ -35,7 +39,8 @@ For events that repeat, such as a class that you have Mondays and Wednesdays, ta
 
 ## Private Events
 
-There is an option to make an event private, to ensure that you are the only one who can see the information. Use the three dots icon at the top of the page and click Private (with the lock next to it). _*Note* Only those who you share your calendar with have access to the information on your calendar_
+There is an option to make an event private, to ensure that you are the only one who can see the information. Use the three dots icon at the top of the page and click Private (with the lock next to it). 
+_*Note:* Only those who you share your calendar with have access to the information on your calendar_
 
 ## Saving Your Event
 
