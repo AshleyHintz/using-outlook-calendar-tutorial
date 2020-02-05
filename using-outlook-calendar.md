@@ -35,7 +35,7 @@ On the top of the page, there is a bell icon that allows you to set a reminder o
 
 ## Recurring Events
 
-For events that repeat, such as a class that you have Mondays and Wednesdays, taking your recycle bin out every two weeks, or tasks that need to be done daily at a certain time, like taking a medication, you can set your event to Make Recurring. Use the Make Recurring button within the event and customize the frequency, days, and time as needed.
+Having events repeat can be very useful for tasks such as classes that you have three times a week or taking your recycle bin out every two weeks. For tasks that need to be done daily at a certain time, like taking a medication, you can also set your event to Make Recurring. Use the Make Recurring button within the event and customize the frequency, days, and time as needed.
 
 ## Private Events
 
